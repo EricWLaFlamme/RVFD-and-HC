@@ -31,3 +31,8 @@ To verify on Windows PowerShell:
 ```powershell
 Get-FileHash "Declarationup (1).pdf" -Algorithm SHA256
 
+PS C:\Users\ewlaf\downloads> Get-FileHash "Declarationup2.pdf" -Algorithm SHA256
+
+Algorithm       Hash                                                                   Path                                                                              
+---------       ----                                                                   ----                                                                              
+SHA256          BD3FC5762ECDFEC7399EA4E85368FA8030887B205A00C0E6453306C5F1C0A6A4       C:\Users\ewlaf\downloads\Declarationup2.pdf                                       
