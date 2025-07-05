@@ -2,7 +2,7 @@
 
 This repository contains the original authored and timestamped declaration of:
 
-- **Ruliad Vibration Field Dynamics (RVFD)**
+- **Ruliad Vibration Field Dynamic (RVFD)**
 - **Holographic Calculus (HC)**
 - **The Prime Modulation Constant \( \chi \)**
 
