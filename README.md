@@ -21,7 +21,13 @@ This document serves as the formal authorship declaration and foundational claim
 
 ---
 
-## 🔐 SHA-256 Hash (To Be Added)
+## 🔐 SHA-256 Hash (Authorship Fingerprint)
 
-The SHA-256 hash of the declaration PDF will be posted here for cryptographic authorship proof:
+SHA-256:
+375937A4886F359F52608AF84E8C51973E58C4F906552A91404428EB45C81C9C
+
+To verify on Windows PowerShell:
+
+```powershell
+Get-FileHash "Declarationup (1).pdf" -Algorithm SHA256
 
