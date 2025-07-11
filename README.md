@@ -78,4 +78,38 @@ This codex includes:
 ```text
 File: authorship2.pdf
 SHA-256: 4B9254FDFB2570F71F4283E4F199C2D31B9CB4AEBC8F306A7903AD33B8DBDF0D
-                                 
+
+
+ 🧾 Addendum: Disclosure and Integrity Verification — Chrono Prisma Module
+The following files have been uploaded to this repository to formally record and cryptographically verify authorship, disclosure, and filing of the Chrono Prisma Module invention by Eric Wayne LaFlamme.
+
+🔒 1. USPTO Patent Filing
+Filename: chronprismafullpat2.pdf
+
+Filed: July 11, 2025
+
+USPTO Application No.: 9/266,571
+
+Confirmation No.: 1496
+
+Purpose: Full nonprovisional utility patent filing with the U.S. Patent and Trademark Office
+
+SHA-256 Hash:
+
+nginx
+Copy
+Edit
+FEEFF476F8DF5E130879E9ED393F590D6256FEEFC8866FA6FAA05940BD2E3B66
+🔓 2. Public Disclosure File
+Filename: ChronoPrismapublic.pdf
+
+Published: July 11, 2025
+
+Purpose: Public authorship disclosure under 35 U.S.C. § 102(b)(1)(B), establishing prior art and preempting misappropriation
+
+SHA-256 Hash:
+
+Copy
+Edit
+5C26BC6C4FC04BA700E4F1419914E09EB9BF2F4AE6BBB36DFFBDDF20BD5AE50E
+Both files serve distinct roles in asserting and protecting intellectual property rights. Any deviation from these hash values invalidates derivative claims and confirms tampering.                                
