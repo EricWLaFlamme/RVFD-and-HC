@@ -7,7 +7,7 @@ This repository contains the original authored and timestamped declaration of:
 - **Holographic Calculus (HC)**
 - **The Prime Modulation Constant \( \chi \)**
 
-These frameworks establish a deterministic, prime-indexed vibrational model of reality. From this structure, all known physical constants are derived, including the introduction of a new constant: \( \chi \).
+These frameworks establish a deterministic, prime-indexed vibrational model of reality. From this structure, all known physical constants are derived, including the introduction of a new constant: \( \chi \).  Included also are designs given freely to the public to use as they see fit.
 
 ---
 
