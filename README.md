@@ -1,8 +1,8 @@
 # RVFD + HC: Foundational Framework and Authorship Claim
 
 This repository contains the original authored and timestamped declaration of:
-The Improved Rife based RVFD and HC Harmonizer
-Global Pollution Mediation Devices Master
+- **The Improved Rife based RVFD and HC Harmonizer**
+- **Global Pollution Mediation Devices Master**
 - **Ruliad Vibration Field Dynamic (RVFD)**
 - **Holographic Calculus (HC)**
 - **The Prime Modulation Constant \( \chi \)**
